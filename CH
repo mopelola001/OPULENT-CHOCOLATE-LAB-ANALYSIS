@@ -1,0 +1,84 @@
+# OPULENT-CHOCOLATE-LAB-ANALYSIS
+In the world of premium chocolates, few names resonate as richly as Opulent Chocolate Lab. With a reputation for crafting indulgent Flavors and a passion for customer satisfaction, the brand has not only sweetened taste buds across continents but also carved a data-driven path to success.
+## Introduction
+This repository contains a performance analysis report of **Opulent Chocolate Lab** for the year **2022**. The goal of this analysis is to evaluate business performance using sales data across products, countries, and personnel, and to derive actionable insights.
+
+---
+
+## Story of Data
+The dataset encompasses chocolate product sales recorded throughout 2022. Key attributes include:
+- Product categories (e.g., 50% Dark Bites, Smooth Silky Salty)
+- Country-wise distribution (Australia, Canada, India, USA, UK, etc.)
+- Sales personnel data
+- Time-series revenue and shipment data
+
+---
+
+## Data Splitting & Pre-processing
+Data was cleaned and organized by the following dimensions:
+- **Country**
+- **Salesperson**
+- **Product Type**
+- **Monthly Sales Timeline**
+
+Pre-processing steps:
+- Removal of duplicates and missing values
+- Standardized revenue format (e.g., "K" for thousands)
+- Calculated metrics: total revenue per product, salesperson, and country
+
+---
+
+## Pre-Analysis
+### Objectives:
+- Determine top-performing countries, products, and personnel
+- Track revenue and sales trends over the year
+- Identify areas of opportunity for improvement and expansion
+
+---
+
+## In-Analysis
+Key findings from the Power BI Dashboard:
+
+- **Total Boxes Shipped**: `177K`
+- **Total Revenue**: `$6.18M`
+- **Top Country (by revenue & volume) **: `Australia` (1.137M Revenue)
+- **Best Salesperson**: `Ches Bonnell` ($321K Revenue)
+- **Top Product**: `Smooth Silky Salty` ($350K Revenue)
+- **Monthly Peak Revenue**: `July 2022` ($134K)
+
+---
+
+## Post-Analysis: Visual Insights
+
+### Visuals Used:
+- **Sales Trend Report** (line chart by date)
+- **Donut Chart** – Boxes shipped by country
+- **Bar Chart** – Revenue by product
+- **Tree map** – Revenue by country
+- **Horizontal Bar Chart** – Revenue by salesperson
+- **KPI Cards** – Summary values for total boxes and total revenue
+
+---
+
+## Recommendations & Observations
+
+### Observations:
+- **Australia** had the largest contribution in both boxes shipped and revenue.
+- **Ches Bonnell** consistently outperformed other sales representatives.
+- Top products had close competition, but "Smooth Silky Salty" led the market.
+
+### ✔ Recommendations:
+1. **Expand Market** in Australia and India due to high sales volume and potential.
+2. **Mentor Program** using high performers like Ches Bonnell to train others.
+3. **Boost Promotions** for best-selling products to maximize ROI.
+4. **Leverage Seasonality** – Run promotions during high-performing months like **February** and **July**.
+
+---
+
+## Conclusion
+2022 was a high-performing year for Opulent Chocolate Lab. Key market insights highlight strong regions, personnel, and product lines. Leveraging these insights through targeted strategies will continue to drive business growth and sustainability.
+
+---
+
+## Dashboard Source
+> Dashboard created using **Microsoft Power BI**
